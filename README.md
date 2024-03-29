@@ -1,6 +1,7 @@
 # ninja_otaku_app
 
-A new Flutter project.
+Screenshot.
+![ss](https://github.com/ASDFG14N/practice_flutter/blob/main/ss.jpg)
 
 ## Getting Started
 
